@@ -1,8 +1,6 @@
 # Video Poker
 ---------------------------------
 
-## Problem 1 - 47 points
-
 Simulation of a popular casino game usually called video poker. The card deck contains 52 cards, 13 of each suit. At the beginning of the game, the deck is shuffled. The player pays a token for each game. Then the top five cards of the deck are presented to the player. The player can reject none, some, or all of the cards. The rejected cards are replaced from the top of the deck. Now the hand is scored.
 * No pair—The lowest hand, containing five separate cards that do not match up to create any of the hands below.
 * One pair—Two cards of the same value, for example two queens. Payout: 1
